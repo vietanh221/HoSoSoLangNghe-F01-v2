@@ -1,0 +1,6 @@
+{
+  "name": "HoSoSoLangNghe - Hồ sơ số làng nghề truyền thống",
+  "description": "Hệ thống lưu trữ và tra cứu hồ sơ số làng nghề truyền thống Việt Nam: Lịch sử di sản, quy trình sản xuất từng bước, danh bạ nghệ nhân đã xác nhận công bố thông tin và sản phẩm tinh hoa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
